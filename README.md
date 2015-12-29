@@ -1,1 +1,1 @@
-# pytail
+# simple python tail implementation
